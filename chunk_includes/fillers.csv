@@ -1,0 +1,5 @@
+itemid,item,condition,type,sentence,question,answer,hasquestion
+filler_01,1,filler,filler,"Before*dawn breaks,*the rooster*proudly*crows to announce*the start of a new day.",XXXX,2,0
+filler_02,2,filler,filler,"The cats*groomed themselves*meticulously,*ensuring every spot of their fur*was clean and smooth.",Was the fur of the cats clean and smooth?,1,1
+filler_03,3,filler,filler,"The farmer's wife*collected*eggs from*the chicken coop,*humming a cheerful tune.",Did the farmer collect the egg?,0,1
+filler_04,4,filler,filler,"Although*the cows*graze*calmly,*they*remain alert*for any signs*of danger nearby.",Are the cows alert?,1,1

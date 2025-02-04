@@ -1,0 +1,6 @@
+.PennController {
+    width: 40em !important;
+    margin-left: 50vw;
+    transform: translateX(-50%);
+    /*font-family: "Times New Roman", Times, serif;*/
+}
