@@ -1,4 +1,4 @@
-itemid,item,type    ,format,sentences,question,answer,hasquestion
+itemid,item,type    ,format,sentence,question,answer,hasquestion
 filler_01,1,filler,direct,"Peter and Lucy visited a local art gallery.*While admiring the paintings,*Lucy accidentally spilled her drink.*Peter said:""Please*be careful*around the exhibits.""",Did Lucy accidentally spill her drink at the art gallery?,1,1
 filler_02,2,filler,direct,"While walking in the park,*Harry noticed a stray dog following them,*and Alice said:""We should*keep our distance*from that stray dog.""",Did Alice suggest that they keep their distance from the stray dog?,1,1
 filler_03,3,filler,indirect,"Oliver and Grace attended a cooking class.*During the session, Grace accidentally overcooked the soup.*Oliver  suggested*adjusting the heat*next time.",Did Oliver suggest adjusting the heat after the soup was overcooked?,1,1
