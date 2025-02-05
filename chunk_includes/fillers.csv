@@ -1,5 +1,49 @@
-itemid,item,condition,type,sentence,question,answer,hasquestion
-filler_01,1,filler,filler,"Before*dawn breaks,*the rooster*proudly*crows to announce*the start of a new day.",XXXX,2,0
-filler_02,2,filler,filler,"The cats*groomed themselves*meticulously,*ensuring every spot of their fur*was clean and smooth.",Was the fur of the cats clean and smooth?,1,1
-filler_03,3,filler,filler,"The farmer's wife*collected*eggs from*the chicken coop,*humming a cheerful tune.",Did the farmer collect the egg?,0,1
-filler_04,4,filler,filler,"Although*the cows*graze*calmly,*they*remain alert*for any signs*of danger nearby.",Are the cows alert?,1,1
+itemid,item,type    ,format,sentences,question,answer,hasquestion
+filler_01,1,filler,direct,"Peter and Lucy visited a local art gallery.*While admiring the paintings,*Lucy accidentally spilled her drink.*Peter said:""Please*be careful*around the exhibits.""",Did Lucy accidentally spill her drink at the art gallery?,1,1
+filler_02,2,filler,direct,"While walking in the park,*Harry noticed a stray dog following them,*and Alice said:""We should*keep our distance*from that stray dog.""",Did Alice suggest that they keep their distance from the stray dog?,1,1
+filler_03,3,filler,indirect,"Oliver and Grace attended a cooking class.*During the session, Grace accidentally overcooked the soup.*Oliver  suggested*adjusting the heat*next time.",Did Oliver suggest adjusting the heat after the soup was overcooked?,1,1
+filler_04,4,filler,direct,"Henry and Isabella visited a botanical garden.*Isabella wandered off the marked path and trampled some flowers.*Henry said:*""You should*follow the designated trails*to protect*the garden.""",Did Isabella wander off the marked path in the botanical garden?,1,1
+filler_05,5,filler,direct,"At a small concert in the park,*Lucas observed that Mia clapped too late during the performance,*and he said:*""Your timing*was off;*try to clap along*with the beat*next time.""",Did Lucas comment on Mia's timing when clapping at the concert?,1,1
+filler_06,6,filler,indirect,"Jack and Lily went to a bookstore.*While browsing, Lily mis-shelved a few books.*Jack remarked that*she should return*the books*to their proper places.",Did Lily misplace some books at the bookstore?,1,1
+filler_07,7,filler,indirect,"During their visit to a historical museum,*Zoe accidentally touched a fragile exhibit,*prompting Samuel to remark that*she needed to be*more careful*with the artifacts.",Did Zoe avoid touching the exhibit?,0,1
+filler_08,8,filler,direct,"Leo and Hannah were cooking dinner together.*Hannah added too much salt to the dish.*Leo said:*""The dish is*too salty;*perhaps we should*adjust the recipe*next time.""",Was the dish seasoned correctly?,0,1
+filler_09,9,filler,direct,"At a film screening,*Frederick noticed that Beatrice had commented inappropriately during the movie,*and he said:*'It would be better*to remain quiet*during the screening.'",Did Beatrice remain silent during the film?,0,1
+filler_10,10,filler,indirect,Caleb and Ruby visited a science exhibition.*Ruby accidentally knocked over a display.*Caleb remarked that*she should be*more careful*around the exhibits.,Did Ruby handle the display carefully?,0,1
+filler_11,11,filler,indirect,"During a pottery workshop, Nina's pot broke while she was molding it,*prompting Marcus to remark that,*although*accidents happen,*she should*try to*handle the clay*with more care.",Did Nina’s pot stay intact?,0,1
+filler_12,12,filler,direct,"Victor and Stella enjoyed a picnic in the park.*Stella forgot to bring the napkins.*Victor said:*""Next time,*please remember*to bring*all*the supplies.""",Did Stella remember the napkins?,0,1
+filler_13,13,filler,direct,"Visiting an antique store, Adrian noticed that*Clara had accidentally damaged a vase,*and he said:*""You need to*be more cautious*when handling*fragile items.""",XXX,2,0
+filler_14,14,filler,indirect,"Ivan and Elena took a painting class.*During the class, Elena spilled some paint on her canvas.*Ivan remarked that*she should try to*control*her brush strokes*more carefully.",XXX,2,0
+filler_15,15,filler,indirect,"During the music recital,*Nora's instrument was slightly out of tune,*prompting Felix to remark that*she should*make sure*to tune it*before playing*next time.",XXX,2,0
+filler_16,16,filler,direct,"Gavin and Paige attended a lecture.*Paige misunderstood a point and asked a redundant question.*Gavin said:*""It's okay*to ask questions,*but try to*listen carefully*first.""",XXX,2,0
+filler_17,17,filler,direct,"While hiking in the forest,*Mason noticed that Amber had taken a wrong turn and gotten slightly lost,*and he said:*""You should*check the map*before venturing*off the trail.""",XXX,2,0
+filler_18,18,filler,direct,"In a quiet library,*Quentin noticed that Sienna whispered while reading,*and he said:*""Maintain*a softer tone*in the library,*please.""",XXX,2,0
+filler_19,19,filler,indirect,Wesley and Harper visited a science fair.*Harper misinterpreted an exhibit and commented wrongly.*Wesley remarked that*she should*read the description*more carefully*next time. ,XXX,2,0
+filler_20,20,filler,indirect,"During a dance class, Aria accidentally stepped on Julian's foot,*prompting him to remark that*she should be*more attentive*to her partner's*movements.",XXX,2,0
+filler_21,21,filler,direct,"Sebastian and Daphne were at a restaurant.*Daphne's order arrived later than expected.*Sebastian said:*""Next time,*please*ensure the order*is confirmed*promptly.""",XXX,2,0
+filler_22,22,filler,direct,"At a movie theater, Dominic noticed that Cora's phone rang during the film,*and he said:*""Please*switch off your phone*before*the movie starts.""",XXX,2,0
+filler_23,23,filler,indirect,Charles and Mabel visited a historical site.*Mabel misunderstood the tour guide's explanation.*Charles remarked that*it might be*beneficial*for her*to ask for clarification*when needed.,XXX,2,0
+filler_24,24,filler,indirect,"During a poetry reading, Elise mispronounced a word in her recitation,*prompting Vincent to remark that*she should*practice her pronunciation*a bit more*next time.",XXX,2,0
+filler_25,25,filler,direct,"Arthur and Jada went to a farmer's market.*Jada accidentally damaged some produce.*Arthur said:*""Handle*the goods*with care*in the future.""",XXX,2,0
+filler_26,26,filler,direct,"Brandon and Kayla attended a photography exhibition.*Kayla's camera shutter malfunctioned.*Brandon said:*""Make sure*your equipment is functioning*properly*before events.""",XXX,2,0
+filler_27,27,filler,indirect,Trevor and Layla visited a new café.*Layla spilled her coffee on the table.*Trevor remarked that*she should be*more careful*with hot drinks*to avoid spills.*,XXX,2,0
+filler_28,28,filler,indirect,"During their walk along the river, Naomi dropped her keys into the water,*prompting Spencer to remark that*she should*secure her belongings*better*next time.",XXX,2,0
+filler_29,29,filler,direct,"Mitchell and Poppy attended a community seminar.*Poppy missed an important announcement.*Mitchell said:*""You should*pay closer attention*during the seminar.""",XXX,2,0
+filler_30,30,filler,direct,"At a science museum, Bradley noticed that Sierra had leaned too close to an interactive display,*and he said:*""Keep*a safe distance*from the exhibits,*please.""",XXX,2,0
+filler_31,31,filler,indirect,Simon and Tessa went for a bike ride.*Tessa forgot to wear a helmet.*Simon remarked that*it was important*to wear*protective gear*when cycling.,XXX,2,0
+filler_32,32,filler,direct,"Colin and Eden explored a local park.*Eden accidentally tripped over a small rock.*Colin said:*""Watch*your step*to avoid injuries.""",XXX,2,0
+filler_33,33,filler,direct,"At a community center,*Derek noticed that Maya had forgotten her membership card at home,*and he said:*""Remember*to bring your card*next time.""",XXX,2,0
+filler_34,34,filler,indirect,Philip and Quinn attended a cooking demonstration.*Quinn over-seasoned the dish he prepared.*Philip remarked that*he might*want to*adjust the seasoning*in his recipe.,XXX,2,0
+filler_35,35,filler,indirect,"During the science workshop, Celine mixed up the experiment materials,*prompting Martin to remark that*she should*double-check*the setup*before starting the experiment.",XXX,2,0
+filler_36,36,filler,direct,"Logan and Trinity went to a local festival.*Trinity arrived late to the event.*Logan said:*""Punctuality*is important;*try to*be on time*next time.""",XXX,2,0
+filler_37,37,filler,indirect,Gabriel and Noelle visited a zoo.*Noelle ignored a sign and went into a restricted area.*Gabriel remarked that*she should*respect*the guidelines*in the zoo.,XXX,2,0
+filler_38,38,filler,direct,"Riley and Camilla visited an aquarium.*Camilla accidentally dropped her ticket into the water.*Riley said:*""Please*be more careful*with your belongings.""",XXX,2,0
+filler_39,39,filler,direct,"At a book reading session, Garrett noticed that Miranda had misheard a crucial detail,*and he said:*""It might help*to listen more*intently*next time.""",XXX,2,0
+filler_40,40,filler,indirect,"During their visit to a botanical garden, Hazel inadvertently stepped on a rare plant,*prompting Curtis to remark that*she should*tread lightly*to protect*the plants.*",XXX,2,0
+filler_41,41,filler,direct,"Lawrence and Talia attended a workshop on crafts.*Talia used the wrong materials for her project.*Lawrence said:*""You might*want to*verify*the required materials*next time.""",XXX,2,0
+filler_42,42,filler,direct,"At a cooking class, Preston noticed that Lydia had burned the dish she was preparing,*and he said:*""It might be useful*to adjust*the cooking time*next time.""",XXX,2,0
+filler_43,43,filler,indirect,Fabian and Erin visited a new art exhibit.*Erin misplaced a brochure during the tour.*Fabian remarked that*she should*keep track of*the materials*provided.,XXX,2,0
+filler_44,44,filler,indirect,"During their visit to a university lecture,*Violet arrived without her notebook,*prompting Owen to remark that*she should*remember to*bring all necessary items*next time.",XXX,2,0
+filler_45,45,filler,indirect,Noah and Tia attended a language workshop.*Tia mixed up some words during the discussion.*Noah remarked that*she should*review the vocabulary*before*the next session.,XXX,2,0
+filler_46,46,filler,indirect,"During a theater performance, Elsa sat in the wrong seat,*prompting Bruce to remark that*she should*check her ticket*to find*her correct seat.",XXX,2,0
+filler_47,47,filler,indirect,"During their visit to a local workshop,*June accidentally used the wrong tool for the task,*prompting Ralph to remark that*she should*use*the appropriate tool*next time.",XXX,2,0
+filler_48,48,filler,indirect,Leonard and Olive went to a cooking demonstration.*Olive confused the recipe steps.*Leonard remarked that*she should*review the instructions*carefully*before attempting the recipe.,XXX,2,0
