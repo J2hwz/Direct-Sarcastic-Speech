@@ -2,5 +2,83 @@
     width: 40em !important;
     margin-left: 50vw;
     transform: translateX(-50%);
-    /*font-family: "Times New Roman", Times, serif;*/
+    font-family: "Helvetica Neue", Arial, Sans-Serif;
+    font-size: 18px;
 }
+
+.Text p {
+    margin: 0.5em 0em;
+}
+
+.Scale {
+    margin: 1em 0em;
+}
+
+.TextInput {
+    margin: 1em 0em;
+    width: 5em;
+    height: 1.5em;
+    font-size: 18px;
+    font-family: "Helvetica Neue", Arial, Sans-Serif;
+}
+
+.Text-container {
+    margin-top: 10px;
+}
+
+.TextInput-container {
+    margin-top: 10px;
+}
+
+.Button-container {
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.Button {
+    background-color: #D50032;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 0.5em;
+    font-size: inherit;
+    line-height: inherit;
+    margin-top: 1em;
+    min-width: 2em;
+    text-align: center;
+}
+
+.Button:hover, .Button:active {
+    background-color: #B6012B;
+    cursor: pointer;
+}
+
+.Scale label {
+    margin: 0 0.25em;
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 0.5em;
+    border-radius: 0.5em;
+    text-align: center;
+    min-width: 3em;
+}
+
+.Scale label.scale-selected {
+	background-color: #041E42;
+	color: white;
+}
+
+.Scale div {
+    margin-right: 0em;
+}
+
+.Scale + div .TextInput {
+    /* TextInput "inside" a scale (technically, following a scale) */
+    margin-top: 1em;
+    width: 10em;
+    height: 2.5em;
+    padding-top: 0.6em;
+    /*position: relative;*/ 
+    /*TODO: Figure out how to get the specify text box below the scales*/
+}
+
